@@ -77,6 +77,7 @@ To run this project locally, follow these steps:
    streamlit run app.py
    ```
 ---
+
 ## **Deployment**
 
 The application is deployed using **Streamlit**🌐. You can access the live app at the following link: https://iris-deployment-saquib.streamlit.app/
@@ -85,17 +86,23 @@ The application is deployed using **Streamlit**🌐. You can access the live app
 
 If you want to deploy your own version of the app, follow the [Streamlit Deployment Guide]([https://docs.streamlit.io/library/deploy](https://docs.streamlit.io/?spm=a2ty_o01.29997173.0.0.6c1ec921jmKg03).
 
+---
+
 ### Usage:
 * Open the deployed Streamlit app in your browser🌐.
 * Input the value of the iris flower using sliders
 * Click the "Predict" button to see the predicted species of the flower🌸.
-  
+
+---
+
 ### Acknowledgments
 Dataset Source: The Iris Dataset is available in the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/53/iris)📚
 
 Streamlit Documentation: [Streamlit Docs](https://docs.streamlit.io/?spm=a2ty_o01.29997173.0.0.6c1ec921jmKg03)📖
 
 **Inspiration**: This project was inspired by the need to demonstrate a complete machine learning pipeline from data preprocessing to deployment.
+
+---
 
 ### 📄License
 This project is licensed under the MIT License.
